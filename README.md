@@ -108,7 +108,7 @@ Example Use
  ---------------
 Below is a quickstart program to print ambient light measurements in lux.
 
-See the examples directory for more detailed use examples and [examples/README.md](https://github.com/sparkfun/qwiic_veml6030_py/blob/main/examples/README.md) for a summary of the available examples.
+See the examples directory for more detailed use examples and [examples/README.md](https://github.com/sparkfun/qwiic_veml6030_py/blob/master/examples/README.md) for a summary of the available examples.
 
 ```python
 import qwiic_veml6030
