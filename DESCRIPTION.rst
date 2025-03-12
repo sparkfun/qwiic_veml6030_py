@@ -1,4 +1,4 @@
-Qwiic <Example Package Title>
+Qwiic VEML6030 Python Package
 =============================================
 
-This is a short description of this package.
+This is the Python package for the SparkFun Qwiic VEML6030.
